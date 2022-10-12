@@ -23,7 +23,7 @@ public class Contador {
         else{
             int contador = numeroDois - numeroUm;
             for(int i =0; i<= contador; i++){
-                System.out.println("Imprimindo o numero "+ i);
+                System.out.println("Imprimindo o numero "+ i); 
             }
         }
 	}
